@@ -1,0 +1,3 @@
+#Ignorar arquivos grandes e dados locais por exceder os limites de tamanho
+data/*.gz
+data/**/*.csv
