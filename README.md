@@ -21,3 +21,6 @@
     - O notebook com a resposta da pergunta 1, está no arquivo do tipo .ipynb 
       "analysis/perguntas/avg_total_amount"
 
+    - O notebook com a resposta da pergunta 2, está no arquivo do tipo .ipynb 
+      "analysis/perguntas/avg_passenger_by_hour"
+
