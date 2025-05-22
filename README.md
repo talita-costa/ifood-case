@@ -2,6 +2,10 @@
 
     - Faça as instalações necessárias de acordo com o requirements.txt
 
+    - O link do github é https://github.com/talita-costa/ifood-case
+
+    - Os dados estão armazenados em um bucket público no Amazon S3, nas camadas raw e silver. 
+
     - o código que irá criar a camada raw está no arquivo do tipo .py "src/raw"
         > Rode esse script com o comando "python src/raw.py", responsável por fazer:
             * A leitura dos dados no site da agência responsável por licenciar e regular os táxis na cidade de NY: https://www.nyc.gov/site/tlc/about/tlc-trip-record-data.page
